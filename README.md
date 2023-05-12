@@ -1,7 +1,7 @@
-## Oi, Eu sou Willyam Rodrigo (Wrasprodigio) 👩🏽‍💻, um desenvolvedor web entusiasmado em dominar as mais recentes tecnologias e tendências do setor. 
+## Oi, Eu sou Willyam Rodrigo (Wrasprodigio), um desenvolvedor web entusiasmado em dominar as mais recentes tecnologias e tendências do setor. 
 
 - 📚 Hoje estou como estudante de Analise e Desenvolvimento de Sistemas no 1º período!
-- 💻 Estudando (HTML, CSS e JavaScript), Em breve pretendo iniciar os estudos em Node.js e React. Como ter familiaridade com bibliotecas e frameworks como Bootstrap, jQuery e Vue.js.
+- 💻 Estudando (HTML, CSS e JavaScript), Em breve pretendo iniciar os estudos em Node.js e React. Como ter familiaridade com bibliotecas e frameworks como Bootstra R2 jQuery e Vue.js.
 - ⚔️ Estou comprometido em acompanhar o ritmo acelerado do mundo da web, explorando frameworks modernos, bibliotecas e ferramentas inovadoras.
 - 🛡️ Estou ansioso para participar de projetos desafiadores, onde posso aprender com profissionais talentosos e contribuir com minhas habilidades em HTML, CSS e JavaScript.
 

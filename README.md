@@ -5,7 +5,7 @@ Sou um desenvolvedor com foco em Java e constante aprendizado pelo mundo do Back
 
 🔹 Experiência:<br>
 🚀 Atualmente, estou embarcando em minha jornada em projetos pessoais e me concentrando em aprender as melhores práticas e padrões em Java.<br>
-💼 Meu objetivo é ingressar em uma equipe de desenvolvimento como Desenvolvedor Backend Web e aplicar os conceitos e técnicas aprendidos para criar soluções sólidas e escaláveis.<br>
+💼 Meu objetivo é ingressar em uma equipe de desenvolvimento como Desenvolvedor Back-end Web e aplicar os conceitos e técnicas aprendidos para criar soluções sólidas e escaláveis.<br>
 
 🔹 Habilidades:<br>
 💻 Linguagens de Programação: Java (em constante aprimoramento).<br>

@@ -1,4 +1,4 @@
-## Oi, Eu sou Willyam Rodrigo (Wrasprodigio), um desenvolvedor Java entusiasmado em resolver problemas. 
+## Oi, Eu sou Willyam Rodrigo (Wrasprodigio), um desenvolvedor Java. 
 
 🔹 Sobre mim:<br>
 Sou um desenvolvedor com foco em Java e constante aprendizado pelo mundo do Back-end Web. Estou me aprimorando em Java e busco constantemente aprimorar minhas habilidades e conhecimentos técnicos para me destacar na área e contribuir para projetos desafiadores.

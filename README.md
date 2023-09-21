@@ -1,19 +1,19 @@
 ## Oi, Eu sou Willyam Rodrigo (Wrasprodigio), um desenvolvedor Java. 
 
 🔹 Sobre mim:<br>
-Sou um desenvolvedor com foco em Java e constante aprendizado pelo mundo do Back-end Web. Estou me aprimorando em Java e busco constantemente aprimorar minhas habilidades e conhecimentos técnicos para me destacar na área e contribuir para projetos desafiadores.
+- Sou um desenvolvedor com foco em Java e constante aprendizado pelo mundo do Back-end Web. Estou me aprimorando em Java e busco constantemente aprimorar minhas habilidades e conhecimentos técnicos para me destacar na área e contribuir para projetos desafiadores.
 
 🔹 Experiência:<br>
-🚀 Atualmente, estou embarcando em minha jornada em projetos pessoais e me concentrando em aprender as melhores práticas e padrões em Java.<br>
-💼 Meu objetivo é ingressar em uma equipe de desenvolvimento como Desenvolvedor Back-end Web e aplicar os conceitos e técnicas aprendidos para criar soluções sólidas e escaláveis.<br>
+- Atualmente, estou embarcando em minha jornada em projetos pessoais e me concentrando em aprender as melhores práticas e padrões em Java.<br>
+- Meu objetivo é ingressar em uma equipe de desenvolvimento como Desenvolvedor Back-end Web e aplicar os conceitos e técnicas aprendidos para criar soluções sólidas e escaláveis.<br>
 
 🔹 Habilidades:<br>
-💻 Linguagens de Programação: Java (em constante aprimoramento).<br>
-🛠️ Ferramentas e Frameworks: Spring Boot, Thymeleaf, Bootstrap.<br>
-📚 Conceitos: Desenvolvimento de API RESTful, bancos de dados relacionais, estruturas de dados e algoritmos.<br>
+- Linguagens de Programação: Java (em constante aprimoramento).<br>
+- Ferramentas e Frameworks: Spring Boot, Thymeleaf, Bootstrap.<br>
+- Conceitos: Desenvolvimento de API RESTful, bancos de dados relacionais, estruturas de dados e algoritmos.<br>
 
 🔹 Formação acadêmica:<br>
-🎓 Cursando (Análise e Desenvolvimento de Sistemas)
+- Cursando (Análise e Desenvolvimento de Sistemas)
 <div align="center">
 <hr>
 
